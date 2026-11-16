@@ -1,0 +1,471 @@
+{
+  "site": {
+    "origin": "https://www.willowandfern.example",
+    "site_name": "Willow & Fern",
+    "is_wix": true,
+    "languages": [
+      "en"
+    ],
+    "multilingual": false
+  },
+  "sections": {
+    "blog-posts": 2,
+    "pages": 8
+  },
+  "totals": {
+    "urls_in_sitemap": 10,
+    "pages_checked": 10,
+    "pages_loaded": 10,
+    "pages_with_issues": 10,
+    "issue_counts": {
+      "social_image_missing": 9,
+      "title_looks_default": 5,
+      "description_missing": 4,
+      "alt_is_file_name": 3,
+      "url_auto_numbered": 2,
+      "h1_missing": 2,
+      "description_duplicate": 2,
+      "home_title_default": 1,
+      "description_too_short": 1,
+      "noindex_in_sitemap": 1,
+      "url_blank": 1,
+      "url_copy_of": 1,
+      "canonical_elsewhere": 1,
+      "h1_multiple": 1,
+      "alt_empty": 1,
+      "title_too_long": 1
+    },
+    "images_checked": 7,
+    "images_alt_file_name": 4,
+    "images_alt_file_name_site_wide": 1,
+    "images_alt_empty": 1,
+    "pages_matched_to_search_console": 8
+  },
+  "site_issues": [
+    {
+      "code": "default_favicon",
+      "text": "The site still uses Wix's default favicon"
+    },
+    {
+      "code": "shared_alt_is_file_name",
+      "text": "1 image(s) in the header or footer, shown on most pages, have the uploaded file name as alt text"
+    }
+  ],
+  "shared_images": [
+    {
+      "image": "a1b2c3_7f1e2d3c4b5a69788796a5b4c3d2e1f0",
+      "file": "Willow-Logo-Final.png",
+      "alt": "Willow-Logo-Final.png",
+      "has_alt": true,
+      "src": "https://static.wixstatic.com/media/a1b2c3_7f1e2d3c4b5a69788796a5b4c3d2e1f0~mv2.png/v1/fill/w_120,h_60/Willow-Logo-Final.png",
+      "issue": "alt_is_file_name",
+      "url": "https://www.willowandfern.example",
+      "pages": 10
+    }
+  ],
+  "rewrite_queue": [
+    "https://www.willowandfern.example",
+    "https://www.willowandfern.example/weddings",
+    "https://www.willowandfern.example/post/how-to-make-cut-flowers-last-longer",
+    "https://www.willowandfern.example/workshops",
+    "https://www.willowandfern.example/about-3",
+    "https://www.willowandfern.example/contact",
+    "https://www.willowandfern.example/post/spring-wedding-flowers-guide",
+    "https://www.willowandfern.example/shop-1",
+    "https://www.willowandfern.example/blank-1",
+    "https://www.willowandfern.example/copy-of-weddings"
+  ],
+  "alt_queue": [
+    {
+      "image": "a1b2c3_7f1e2d3c4b5a69788796a5b4c3d2e1f0",
+      "file": "Willow-Logo-Final.png",
+      "alt": "Willow-Logo-Final.png",
+      "has_alt": true,
+      "src": "https://static.wixstatic.com/media/a1b2c3_7f1e2d3c4b5a69788796a5b4c3d2e1f0~mv2.png/v1/fill/w_120,h_60/Willow-Logo-Final.png",
+      "issue": "alt_is_file_name",
+      "url": "https://www.willowandfern.example",
+      "pages": 10,
+      "site_wide": true
+    },
+    {
+      "url": "https://www.willowandfern.example",
+      "image": "a1b2c3_4821aa",
+      "file": "IMG_4821.JPG",
+      "alt": "IMG_4821.JPG",
+      "has_alt": true,
+      "src": "https://static.wixstatic.com/media/a1b2c3_4821aa~mv2.jpg/v1/fill/w_800,h_600/IMG_4821.JPG",
+      "issue": "alt_is_file_name",
+      "site_wide": false
+    },
+    {
+      "url": "https://www.willowandfern.example/weddings",
+      "image": "a1b2c3_bouquet",
+      "file": "bridal-bouquet-peonies.jpg",
+      "alt": "bridal-bouquet-peonies.jpg",
+      "has_alt": true,
+      "src": "https://static.wixstatic.com/media/a1b2c3_bouquet~mv2.jpg/v1/fill/w_800,h_600/bridal-bouquet-peonies.jpg",
+      "issue": "alt_is_file_name",
+      "site_wide": false
+    },
+    {
+      "url": "https://www.willowandfern.example/post/how-to-make-cut-flowers-last-longer",
+      "image": "a1b2c3_shot",
+      "file": "Screenshot 2026-03-02 at 10.14.22.png",
+      "alt": "Screenshot 2026-03-02 at 10.14.22.png",
+      "has_alt": true,
+      "src": "https://static.wixstatic.com/media/a1b2c3_shot~mv2.jpg/v1/fill/w_800,h_600/Screenshot 2026-03-02 at 10.14.22.png",
+      "issue": "alt_is_file_name",
+      "site_wide": false
+    }
+  ],
+  "pages": [
+    {
+      "url": "https://www.willowandfern.example",
+      "path": "/",
+      "section": "pages",
+      "status": 200,
+      "title": "Willow & Fern",
+      "title_chars": 13,
+      "description": "",
+      "description_chars": 0,
+      "h1": [
+        "Flowers for every season"
+      ],
+      "canonical": "https://www.willowandfern.example",
+      "images_checked": 3,
+      "image_fixes": [
+        {
+          "image": "a1b2c3_4821aa",
+          "file": "IMG_4821.JPG",
+          "alt": "IMG_4821.JPG",
+          "has_alt": true,
+          "src": "https://static.wixstatic.com/media/a1b2c3_4821aa~mv2.jpg/v1/fill/w_800,h_600/IMG_4821.JPG",
+          "issue": "alt_is_file_name"
+        }
+      ],
+      "issues": [
+        "home_title_default",
+        "description_missing",
+        "alt_is_file_name"
+      ],
+      "issue_text": [
+        "Home page title is only the site name (Wix's default)",
+        "No meta description (Wix leaves it blank by default)",
+        "Image alt text is the uploaded file name"
+      ],
+      "impressions": 5200.0,
+      "score": 8
+    },
+    {
+      "url": "https://www.willowandfern.example/about-3",
+      "path": "/about-3",
+      "section": "pages",
+      "status": 200,
+      "title": "About | Willow & Fern",
+      "title_chars": 21,
+      "description": "About us.",
+      "description_chars": 9,
+      "h1": [
+        "Our story"
+      ],
+      "canonical": "https://www.willowandfern.example/about-3",
+      "images_checked": 3,
+      "image_fixes": [],
+      "issues": [
+        "title_looks_default",
+        "description_too_short",
+        "url_auto_numbered",
+        "social_image_missing"
+      ],
+      "issue_text": [
+        "Title is Wix's default 'Page name | Site name', or a leftover 'Copy of' name",
+        "Description is short",
+        "URL looks auto-numbered (for example /about-5)",
+        "No social share image"
+      ],
+      "impressions": 600.0,
+      "score": 6
+    },
+    {
+      "url": "https://www.willowandfern.example/blank-1",
+      "path": "/blank-1",
+      "section": "pages",
+      "status": 200,
+      "title": "Blank | Willow & Fern",
+      "title_chars": 21,
+      "description": "",
+      "description_chars": 0,
+      "h1": [],
+      "canonical": "https://www.willowandfern.example/blank-1",
+      "images_checked": 2,
+      "image_fixes": [],
+      "issues": [
+        "noindex_in_sitemap",
+        "title_looks_default",
+        "description_missing",
+        "h1_missing",
+        "url_blank",
+        "social_image_missing"
+      ],
+      "issue_text": [
+        "Page is in the sitemap but tells search engines not to index it",
+        "Title is Wix's default 'Page name | Site name', or a leftover 'Copy of' name",
+        "No meta description (Wix leaves it blank by default)",
+        "No H1 heading",
+        "URL is a placeholder name such as 'blank' or 'new-page'",
+        "No social share image"
+      ],
+      "impressions": null,
+      "score": 16
+    },
+    {
+      "url": "https://www.willowandfern.example/contact",
+      "path": "/contact",
+      "section": "pages",
+      "status": 200,
+      "title": "Visit or Call Our Bath Flower Studio | Willow & Fern",
+      "title_chars": 52,
+      "description": "Find our studio on Walcot Street, Bath. Opening hours, phone number and a map.",
+      "description_chars": 78,
+      "h1": [
+        "Contact"
+      ],
+      "canonical": "https://www.willowandfern.example/contact",
+      "images_checked": 2,
+      "image_fixes": [],
+      "issues": [
+        "social_image_missing"
+      ],
+      "issue_text": [
+        "No social share image"
+      ],
+      "impressions": 450.0,
+      "score": 1
+    },
+    {
+      "url": "https://www.willowandfern.example/copy-of-weddings",
+      "path": "/copy-of-weddings",
+      "section": "pages",
+      "status": 200,
+      "title": "Copy of Weddings | Willow & Fern",
+      "title_chars": 32,
+      "description": "Small-group flower arranging workshops in our Bath studio, every Saturday morning.",
+      "description_chars": 82,
+      "h1": [
+        "Weddings"
+      ],
+      "canonical": "https://www.willowandfern.example/copy-of-weddings",
+      "images_checked": 2,
+      "image_fixes": [],
+      "issues": [
+        "title_looks_default",
+        "description_duplicate",
+        "url_copy_of",
+        "social_image_missing"
+      ],
+      "issue_text": [
+        "Title is Wix's default 'Page name | Site name', or a leftover 'Copy of' name",
+        "Same description as another page",
+        "URL starts with 'copy-of', left from a duplicated page",
+        "No social share image"
+      ],
+      "impressions": null,
+      "score": 9
+    },
+    {
+      "url": "https://www.willowandfern.example/shop-1",
+      "path": "/shop-1",
+      "section": "pages",
+      "status": 200,
+      "title": "Shop | Willow & Fern",
+      "title_chars": 20,
+      "description": "",
+      "description_chars": 0,
+      "h1": [
+        "Shop"
+      ],
+      "canonical": "https://www.willowandfern.example/shop",
+      "images_checked": 2,
+      "image_fixes": [],
+      "issues": [
+        "canonical_elsewhere",
+        "title_looks_default",
+        "description_missing",
+        "url_auto_numbered",
+        "social_image_missing"
+      ],
+      "issue_text": [
+        "Canonical tag points to a different URL",
+        "Title is Wix's default 'Page name | Site name', or a leftover 'Copy of' name",
+        "No meta description (Wix leaves it blank by default)",
+        "URL looks auto-numbered (for example /about-5)",
+        "No social share image"
+      ],
+      "impressions": 120.0,
+      "score": 11
+    },
+    {
+      "url": "https://www.willowandfern.example/weddings",
+      "path": "/weddings",
+      "section": "pages",
+      "status": 200,
+      "title": "Wedding Flowers in Bath | Willow & Fern",
+      "title_chars": 39,
+      "description": "",
+      "description_chars": 0,
+      "h1": [],
+      "canonical": "https://www.willowandfern.example/weddings",
+      "images_checked": 3,
+      "image_fixes": [
+        {
+          "image": "a1b2c3_bouquet",
+          "file": "bridal-bouquet-peonies.jpg",
+          "alt": "bridal-bouquet-peonies.jpg",
+          "has_alt": true,
+          "src": "https://static.wixstatic.com/media/a1b2c3_bouquet~mv2.jpg/v1/fill/w_800,h_600/bridal-bouquet-peonies.jpg",
+          "issue": "alt_is_file_name"
+        }
+      ],
+      "issues": [
+        "description_missing",
+        "h1_missing",
+        "alt_is_file_name",
+        "social_image_missing"
+      ],
+      "issue_text": [
+        "No meta description (Wix leaves it blank by default)",
+        "No H1 heading",
+        "Image alt text is the uploaded file name",
+        "No social share image"
+      ],
+      "impressions": 3100.0,
+      "score": 8
+    },
+    {
+      "url": "https://www.willowandfern.example/workshops",
+      "path": "/workshops",
+      "section": "pages",
+      "status": 200,
+      "title": "Workshops | Willow & Fern",
+      "title_chars": 25,
+      "description": "Small-group flower arranging workshops in our Bath studio, every Saturday morning.",
+      "description_chars": 82,
+      "h1": [
+        "Workshops",
+        "Book a place"
+      ],
+      "canonical": "https://www.willowandfern.example/workshops",
+      "images_checked": 3,
+      "image_fixes": [
+        {
+          "image": "a1b2c3_ws",
+          "file": "workshop-table.jpg",
+          "alt": "",
+          "has_alt": true,
+          "src": "https://static.wixstatic.com/media/a1b2c3_ws~mv2.jpg/v1/fill/w_800,h_600/workshop-table.jpg",
+          "issue": "alt_empty"
+        }
+      ],
+      "issues": [
+        "title_looks_default",
+        "description_duplicate",
+        "h1_multiple",
+        "alt_empty",
+        "social_image_missing"
+      ],
+      "issue_text": [
+        "Title is Wix's default 'Page name | Site name', or a leftover 'Copy of' name",
+        "Same description as another page",
+        "More than one H1 heading",
+        "Image has empty alt text (fine only if it is decorative)",
+        "No social share image"
+      ],
+      "impressions": 900.0,
+      "score": 8
+    },
+    {
+      "url": "https://www.willowandfern.example/post/how-to-make-cut-flowers-last-longer",
+      "path": "/post/how-to-make-cut-flowers-last-longer",
+      "section": "blog-posts",
+      "status": 200,
+      "title": "How to Make Cut Flowers Last Longer | Willow & Fern",
+      "title_chars": 51,
+      "description": "Seven simple habits our florists use to keep a bouquet fresh for two weeks, from trimming to water.",
+      "description_chars": 99,
+      "h1": [
+        "How to make cut flowers last longer"
+      ],
+      "canonical": "https://www.willowandfern.example/post/how-to-make-cut-flowers-last-longer",
+      "images_checked": 3,
+      "image_fixes": [
+        {
+          "image": "a1b2c3_shot",
+          "file": "Screenshot 2026-03-02 at 10.14.22.png",
+          "alt": "Screenshot 2026-03-02 at 10.14.22.png",
+          "has_alt": true,
+          "src": "https://static.wixstatic.com/media/a1b2c3_shot~mv2.jpg/v1/fill/w_800,h_600/Screenshot 2026-03-02 at 10.14.22.png",
+          "issue": "alt_is_file_name"
+        }
+      ],
+      "issues": [
+        "alt_is_file_name",
+        "social_image_missing"
+      ],
+      "issue_text": [
+        "Image alt text is the uploaded file name",
+        "No social share image"
+      ],
+      "impressions": 2400.0,
+      "score": 3
+    },
+    {
+      "url": "https://www.willowandfern.example/post/spring-wedding-flowers-guide",
+      "path": "/post/spring-wedding-flowers-guide",
+      "section": "blog-posts",
+      "status": 200,
+      "title": "The Complete Guide to Choosing Spring Wedding Flowers for Your Big Day | Willow & Fern",
+      "title_chars": 86,
+      "description": "Which flowers are in season for a spring wedding, what they cost, and how to pair them.",
+      "description_chars": 87,
+      "h1": [
+        "Spring wedding flowers"
+      ],
+      "canonical": "https://www.willowandfern.example/post/spring-wedding-flowers-guide",
+      "images_checked": 2,
+      "image_fixes": [],
+      "issues": [
+        "title_too_long",
+        "social_image_missing"
+      ],
+      "issue_text": [
+        "Title is likely to be cut off in search results",
+        "No social share image"
+      ],
+      "impressions": 300.0,
+      "score": 3
+    }
+  ],
+  "site_urls": [
+    "https://www.willowandfern.example",
+    "https://www.willowandfern.example/about-3",
+    "https://www.willowandfern.example/blank-1",
+    "https://www.willowandfern.example/contact",
+    "https://www.willowandfern.example/copy-of-weddings",
+    "https://www.willowandfern.example/shop-1",
+    "https://www.willowandfern.example/weddings",
+    "https://www.willowandfern.example/workshops",
+    "https://www.willowandfern.example/post/how-to-make-cut-flowers-last-longer",
+    "https://www.willowandfern.example/post/spring-wedding-flowers-guide"
+  ],
+  "thresholds": {
+    "title_max_chars": 60,
+    "title_min_chars": 30,
+    "description_min_chars": 50,
+    "description_max_chars": 160,
+    "alt_max_chars": 125,
+    "max_pages": 150,
+    "default_title_max_words": 3
+  },
+  "notes": [],
+  "client": "Willow & Fern"
+}

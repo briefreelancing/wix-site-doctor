@@ -1,0 +1,16 @@
+{
+  "title": "Wix site check",
+  "client": "Willow & Fern",
+  "headline": "All 10 pages have something to fix, and most of it is Wix's defaults left in place: 5 pages still use the 'Page name | Site name' title and 4 have no description.",
+  "summary": [
+    "The site is in good working order: every page loaded and is a Wix page. The work is in what search results and social shares show. The home page title is only the site name, and 9 pages have no social share image, so shared links appear without a picture.",
+    "Four images use the uploaded file name as their alt text, including the logo in the header, which appears on every page. Three page addresses still carry leftovers from the editor: an auto-numbered URL, a 'copy-of' page and a 'blank' page that tells search engines not to index it."
+  ],
+  "next_steps": [
+    "Rewrite the home page title and description first; it has the most impressions.",
+    "Add descriptions to the weddings, shop and blank pages, or delete the blank page if it is not used.",
+    "Fix the logo's alt text once in the header; it updates on every page.",
+    "Delete or rename the copy-of-weddings page so it stops competing with the real weddings page.",
+    "Set one default social share image for the whole site in the SEO settings."
+  ]
+}

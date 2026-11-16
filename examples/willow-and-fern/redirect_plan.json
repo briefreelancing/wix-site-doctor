@@ -1,0 +1,159 @@
+{
+  "totals": {
+    "old_urls": 12,
+    "skipped": 2,
+    "same_path": 3,
+    "same_slug": 2,
+    "suggested": 3,
+    "none": 2,
+    "new_pages": 10
+  },
+  "rows": [
+    {
+      "old_url": "https://willowandfern-old.example/",
+      "path": "/",
+      "impressions": null,
+      "source": "old-wordpress-sitemap.xml",
+      "match": "same_path",
+      "new_path": "/",
+      "candidates": [],
+      "overlap": null
+    },
+    {
+      "old_url": "https://willowandfern-old.example/2023/05/spring-wedding-flowers-guide/",
+      "path": "/2023/05/spring-wedding-flowers-guide",
+      "impressions": null,
+      "source": "old-wordpress-sitemap.xml",
+      "match": "same_slug",
+      "new_path": "/post/spring-wedding-flowers-guide",
+      "candidates": [],
+      "overlap": null
+    },
+    {
+      "old_url": "https://willowandfern-old.example/2024/03/how-to-make-cut-flowers-last-longer/",
+      "path": "/2024/03/how-to-make-cut-flowers-last-longer",
+      "impressions": null,
+      "source": "old-wordpress-sitemap.xml",
+      "match": "same_slug",
+      "new_path": "/post/how-to-make-cut-flowers-last-longer",
+      "candidates": [],
+      "overlap": null
+    },
+    {
+      "old_url": "https://willowandfern-old.example/about-us/",
+      "path": "/about-us",
+      "impressions": null,
+      "source": "old-wordpress-sitemap.xml",
+      "match": "suggested",
+      "new_path": "/about-3",
+      "candidates": [
+        "/about-3"
+      ],
+      "overlap": 0.5
+    },
+    {
+      "old_url": "https://willowandfern-old.example/contact/",
+      "path": "/contact",
+      "impressions": null,
+      "source": "old-wordpress-sitemap.xml",
+      "match": "same_path",
+      "new_path": "/contact",
+      "candidates": [],
+      "overlap": null
+    },
+    {
+      "old_url": "https://willowandfern-old.example/flower-subscriptions/",
+      "path": "/flower-subscriptions",
+      "impressions": null,
+      "source": "old-wordpress-sitemap.xml",
+      "match": "none",
+      "new_path": "",
+      "candidates": [
+        "/weddings",
+        "/contact",
+        "/post/how-to-make-cut-flowers-last-longer"
+      ],
+      "overlap": null
+    },
+    {
+      "old_url": "https://willowandfern-old.example/gallery/",
+      "path": "/gallery",
+      "impressions": null,
+      "source": "old-wordpress-sitemap.xml",
+      "match": "none",
+      "new_path": "",
+      "candidates": [],
+      "overlap": null
+    },
+    {
+      "old_url": "https://willowandfern-old.example/shop/",
+      "path": "/shop",
+      "impressions": null,
+      "source": "old-wordpress-sitemap.xml",
+      "match": "suggested",
+      "new_path": "/shop-1",
+      "candidates": [
+        "/shop-1"
+      ],
+      "overlap": 1.0
+    },
+    {
+      "old_url": "https://willowandfern-old.example/wedding-flowers/",
+      "path": "/wedding-flowers",
+      "impressions": null,
+      "source": "old-wordpress-sitemap.xml",
+      "match": "suggested",
+      "new_path": "/weddings",
+      "candidates": [
+        "/weddings",
+        "/copy-of-weddings",
+        "/post/spring-wedding-flowers-guide"
+      ],
+      "overlap": 0.67
+    },
+    {
+      "old_url": "https://willowandfern-old.example/workshops/",
+      "path": "/workshops",
+      "impressions": null,
+      "source": "old-wordpress-sitemap.xml",
+      "match": "same_path",
+      "new_path": "/workshops",
+      "candidates": [],
+      "overlap": null
+    }
+  ],
+  "skipped": [
+    {
+      "old_url": "https://willowandfern-old.example/tag/peonies/",
+      "path": "/tag/peonies",
+      "impressions": null,
+      "source": "old-wordpress-sitemap.xml",
+      "reason": "archive or pagination URL"
+    },
+    {
+      "old_url": "https://willowandfern-old.example/wp-content/uploads/2024/03/peonies.jpg",
+      "path": "/wp-content/uploads/2024/03/peonies.jpg",
+      "impressions": null,
+      "source": "old-wordpress-sitemap.xml",
+      "reason": "file or system URL"
+    }
+  ],
+  "new_paths": [
+    "/",
+    "/about-3",
+    "/blank-1",
+    "/contact",
+    "/copy-of-weddings",
+    "/post/how-to-make-cut-flowers-last-longer",
+    "/post/spring-wedding-flowers-guide",
+    "/shop-1",
+    "/weddings",
+    "/workshops"
+  ],
+  "thresholds": {
+    "suggest_min_overlap": 0.5,
+    "wix_max_per_file": 500,
+    "wix_max_per_site": 5000
+  },
+  "notes": []
+}

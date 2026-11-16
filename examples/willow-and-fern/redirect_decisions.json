@@ -1,0 +1,5 @@
+{
+  "approve_suggested": ["/about-us", "/wedding-flowers", "/shop"],
+  "set": [{"old": "/flower-subscriptions", "new": "/shop-1", "reason": "Subscriptions are now sold in the shop."}],
+  "skip": [{"old": "/gallery", "reason": "The gallery was retired; there is no equivalent page."}]
+}

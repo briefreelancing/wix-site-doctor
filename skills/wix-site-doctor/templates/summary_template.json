@@ -1,0 +1,11 @@
+{
+  "title": "Wix site check",
+  "client": "Client name",
+  "headline": "One sentence with the main finding. Every number must be in audit.json totals.",
+  "summary": [
+    "Two or three short paragraphs: the site-wide picture first, then the most common page problems."
+  ],
+  "next_steps": [
+    "Three to six plain steps, most important first."
+  ]
+}

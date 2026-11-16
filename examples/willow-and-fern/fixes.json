@@ -1,0 +1,24 @@
+{
+  "pages": [
+    {"url": "https://www.willowandfern.example", "new_title": "Florist in Bath: Seasonal Flowers & Bouquets | Willow & Fern",
+     "new_description": "Seasonal bouquets, wedding flowers and Saturday workshops from our studio in Bath. Order online or visit us on Walcot Street.",
+     "reason": "The home title was only the site name, Wix's default, and the page had no description, so search results showed no hint of what the shop sells."},
+    {"url": "https://www.willowandfern.example/weddings", "new_description": "Wedding flowers designed in our Bath studio: bridal bouquets, buttonholes and venue flowers, planned with you from the first consultation.",
+     "reason": "The weddings page had no description, so Google picked its own text for one of the most-searched pages."},
+    {"url": "https://www.willowandfern.example/workshops", "new_title": "Flower Arranging Workshops in Bath | Willow & Fern",
+     "new_description": "Join a small-group flower arranging workshop in our Bath studio on Saturday mornings. All flowers and tools included.",
+     "reason": "The title was Wix's default 'Workshops | Willow & Fern', and the description was shared with the copy-of-weddings page."},
+    {"url": "https://www.willowandfern.example/about-3", "new_title": "About Our Bath Flower Studio | Willow & Fern",
+     "new_description": "Meet Sara and Tom, the florists behind Willow & Fern, and see how we source seasonal flowers for our Bath studio.",
+     "reason": "The title was Wix's default and the description was only 9 characters."},
+    {"url": "https://www.willowandfern.example/post/spring-wedding-flowers-guide", "new_title": "Spring Wedding Flowers: A Seasonal Guide | Willow & Fern",
+     "reason": "The title was 79 characters and would be cut off in search results; the new one keeps the main phrase."}
+  ],
+  "alt_text": [
+    {"url": "https://www.willowandfern.example", "image": "a1b2c3_7f1e2d3c4b5a69788796a5b4c3d2e1f0", "new_alt": "Willow & Fern logo", "basis": "file name"},
+    {"url": "https://www.willowandfern.example", "image": "a1b2c3_4821aa", "new_alt": "Hand-tied bouquet of pink peonies and eucalyptus on the studio counter", "basis": "owner description"},
+    {"url": "https://www.willowandfern.example/weddings", "image": "a1b2c3_bouquet", "new_alt": "Bridal bouquet of white peonies", "basis": "file name"},
+    {"url": "https://www.willowandfern.example/post/how-to-make-cut-flowers-last-longer", "image": "a1b2c3_shot", "new_alt": "Florist trimming rose stems at an angle under running water", "basis": "owner description"},
+    {"url": "https://www.willowandfern.example/workshops", "image": "a1b2c3_ws", "new_alt": "", "basis": "seen", "decorative": true}
+  ]
+}

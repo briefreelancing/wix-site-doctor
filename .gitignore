@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+out/
+wix_out/
+dist/
+.DS_Store

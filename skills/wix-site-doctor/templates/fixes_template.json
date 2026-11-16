@@ -1,0 +1,19 @@
+{
+  "pages": [
+    {
+      "url": "exactly as in audit.json",
+      "new_title": "Under 60 characters, unique. Leave empty to keep the current title.",
+      "new_description": "50 to 160 characters, unique. Leave empty to keep the current description.",
+      "reason": "One plain sentence for the reviewer: what was wrong and what the change does."
+    }
+  ],
+  "alt_text": [
+    {
+      "url": "a page URL from audit.json (for a header or footer image, the url listed in shared_images)",
+      "image": "the image id from image_fixes or shared_images",
+      "new_alt": "Short, specific description. No 'image of'. Leave empty only if decorative is true.",
+      "basis": "seen | owner description | file name",
+      "decorative": false
+    }
+  ]
+}

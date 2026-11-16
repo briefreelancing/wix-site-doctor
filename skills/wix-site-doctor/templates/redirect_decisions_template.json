@@ -1,0 +1,9 @@
+{
+  "approve_suggested": ["/old-path-whose-suggested-match-the-user-approved"],
+  "set": [
+    {"old": "/old-path", "new": "/new-path-on-the-wix-site", "reason": "Why this is the closest page"}
+  ],
+  "skip": [
+    {"old": "/old-path-with-no-equivalent", "reason": "Page was retired; a 404 is acceptable"}
+  ]
+}
