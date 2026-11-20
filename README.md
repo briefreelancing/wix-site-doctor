@@ -111,4 +111,4 @@ writes `dist/wix-site-doctor.zip`, with one folder and `SKILL.md` at its root.
 
 MIT. See [LICENSE](LICENSE).
 
-Built by Brie and Claude.
+Built by Brie.
