@@ -19,6 +19,17 @@ It never logs in and never changes the site.
 
 Not affiliated with or endorsed by Wix.com. "Wix" is a trademark of Wix.com Ltd.
 
+![Client report made from the sample site](docs/images/client-report.png)
+
+![Fix sheet: old titles next to the proposed ones](docs/images/fix-sheet.png)
+
+## Start here (no coding needed)
+
+1. Download `wix-site-doctor.zip` from the [latest release](../../releases/latest). Don't unzip it.
+2. In Claude, turn on code execution and web access: Settings > Capabilities.
+3. Upload the zip under Skills (Create skill > Upload a skill) and switch it on.
+4. Start a chat and ask: *"Check the SEO on https://www.example.com and give me a client report."*
+
 ## What it checks
 
 | Check | Why it matters on Wix |
@@ -95,5 +106,9 @@ python tools/package_skill.py
 ```
 
 writes `dist/wix-site-doctor.zip`, with one folder and `SKILL.md` at its root.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
 
 Built by Brie and Claude.
